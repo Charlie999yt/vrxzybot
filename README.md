@@ -25,7 +25,7 @@
 # Instalasi
 ## Clone Repo & Instalasi dependencies
 ```bash
-> git clone https://github.com/yogipw/Self-Bot
+> git clone https://github.com/Charlie999/Self-Bot
 > cd Self-Bott
 > npm install
 > node .
@@ -37,7 +37,7 @@
 > pkg install nodejs
 > pkg install git
 > pkg install bash
-> git clone https://github.com/yogipw/Self-Bot
+> git clone https://github.com/Charlie999/Self-Bot
 > cd Self-Bot
 > bash install.sh
 > npm install
@@ -47,11 +47,12 @@
 
 ## Connect With Me
 <p align="center">
- <a href="https://instagram.com/yogipw"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+62853535697153"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://instagram.com/oceanus_ff"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+62853535697153"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Dehanjing`](https://api.dhnjing.xyz/all)
 * [`Hexagonz`](https://github.com/hexagonz)
+* [`CHARLIE`](https://GitHub.com/Charlie999yt)
 
